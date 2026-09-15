@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Banco de dados local (cada pessoa gera o seu)
+GestaoSimples/gestao.db
+
+# Imagens dos produtos que você testou localmente
+GestaoSimples/Imagens/
