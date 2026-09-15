@@ -6,5 +6,5 @@ obj/
 # Banco de dados local (cada pessoa gera o seu)
 GestaoSimples/gestao.db
 
-# Imagens dos produtos que você testou localmente
+# Imagens dos produtos 
 GestaoSimples/Imagens/
